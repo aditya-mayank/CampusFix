@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #0f172a; /* Slate 900 for dark mode feel or a vibrant blue #3b82f6 */
+  --color-brand-light: #3b82f6; 
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: #f8fafc; /* light slate background */
+  color: #0f172a;
+  margin: 0;
+}
