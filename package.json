@@ -1,0 +1,12 @@
+{
+  "name": "campusfix",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm --prefix src run build",
+    "test": "npm --prefix backend test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
